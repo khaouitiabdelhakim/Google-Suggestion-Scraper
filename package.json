@@ -1,0 +1,10 @@
+{
+  "name": "google-complete",
+  "author": "KHAOUITI ABDELHAKIM",
+  "version": "1.0.0",
+  "description": "Google search complete",
+  "main": "script.js",
+  "dependencies": {
+    "html-to-text": "^9.0.5"
+  }
+}
